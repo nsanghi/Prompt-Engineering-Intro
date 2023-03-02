@@ -1,5 +1,5 @@
 # Prompt-Engineering-Intro
-This repository contains a starter python notebook to get one started with basic Prompt engineering using OpenAI's GPT3 models. This accompanies the medium blog:
+This repository contains a starter python notebook to get one started with basic Prompt engineering using OpenAI's GPT3 models. This accompanies the medium blog: [An Introduction to Prompt Engineering for OpenAI GPT LLMs](https://medium.com/cloudcraftz/an-introduction-to-prompt-engineering-for-openai-gpt-llms-f109ca4f1739)
 
 ### Setup
 1. Create a new environment using conda 
